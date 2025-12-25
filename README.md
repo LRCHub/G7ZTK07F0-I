@@ -1,0 +1,63 @@
+# Red Velvet – Sunny Afternoon
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+오늘 같은 달콤한 날에는
+그리는 어디든
+좋아 Sunny Afternoon Afternoon
+내 안에 온 파도 너를 닮은 온도
+모두 완벽한 거야 또 너라서 난
+잊지 못할 Sunny Sunny Afternoon
+멀리 갈 필요 없어 Yeah
+눈을 감고 느끼면
+저 파란 하늘에 시원한 바람에
+난 누구보다 기분 좋은 걸
+노랑 나른한 햇살 느릿하게
+기댄 내 맘속 불어오는
+향기 가득한 오후
+그리고 또 하나 항상 내 곁엔
+네가 함께 있어 Ooh
+오늘 같은 달콤한 날에는
+그리는 어디든
+좋아 Sunny Afternoon Afternoon
+내 안에 온 파도 너를 닮은 온도
+모두 완벽한 거야 또 너라서 난
+잊지 못할 Sunny Sunny Afternoon
+나 이래도 되니 상상보다 좀 더
+많이
+설렘 떨림 두근거림 자꾸 왜 이래
+맘이
+특별한 오늘 네가 선물해
+너라서 그래 우리 사인 Sunny day
+저 넓은 품 속에 싱그런 미소에
+넌 누구보다 눈이 부신 걸
+살랑 불어오는 숨
+아른하게 펼쳐진 꿈 속
+늘어지는 잎에 몰래 감춰둔
+마음엔 단 하나 항상 소중한
+네가 함께 있어 Ooh
+오늘 같은 달콤한 날에는
+그리는 어디든
+좋아 Sunny Afternoon Afternoon
+내 안에 온 파도 너를 닮은 온도
+모두 완벽한 거야 또 너라서 난
+잊지 못할 Sunny Sunny Afternoon
+특별한 거 없이도
+함께라는 것만으로 Special
+지금 이 순간을 언제나 안고서
+매일을 물들일 거야
+귓가에는 달콤한 목소리
+둘만 아는 Story
+너와 나의 Afternoon Afternoon
+눈 속에 빛나는 바다를 담은 너는
+내게 완벽한 거야 꼭 이대로만
+있고 싶은 Sunny Sunny
+오늘 같은 달콤한 날에는
+그리는 어디든
+좋아 Sunny Afternoon Afternoon
+내 안에 온 파도 너를 닮은 온도
+모두 완벽한 거야 또 너라서 난
+잊지 못할 Sunny Sunny
+Sunny Sunny Afternoon
+```
