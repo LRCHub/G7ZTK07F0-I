@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sunny Afternoon",
+  "base_artist": "Red Velvet",
+  "createdAt": "2025-12-25T06:00:01.066762Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunny Afternoon",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/01_Sunny_Afternoon_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunny Afternoon",
+      "artist": "Tom Jones feat. Space",
+      "has_synced": true,
+      "path": "select/02_Sunny_Afternoon_Tom_Jones_feat._Space.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunny Afternoon",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/03_Sunny_Afternoon_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sunny Afternoon (Alternate Stereo Mix)",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/04_Sunny_Afternoon_(Alternate_Stereo_Mix)_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sunny Afternoon - Live at Maida Vale Studios, 1967",
+      "artist": "The Kinks",
+      "has_synced": false,
+      "path": "select/05_Sunny_Afternoon_-_Live_at_Maida_Vale_Studios,_1967_The_Kinks.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sunny Afternoon - Live",
+      "artist": "The Kinks",
+      "has_synced": false,
+      "path": "select/06_Sunny_Afternoon_-_Live_The_Kinks.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunny Afternoon",
+      "artist": "Kinks",
+      "has_synced": true,
+      "path": "select/07_Sunny_Afternoon_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sunny Afternoon",
+      "artist": "The Kinks",
+      "has_synced": false,
+      "path": "select/08_Sunny_Afternoon_The_Kinks.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sunny Afternoon",
+      "artist": "The Standells",
+      "has_synced": false,
+      "path": "select/09_Sunny_Afternoon_The_Standells.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sunny Afternoon",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/10_Sunny_Afternoon_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sunny Afternoon",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/11_Sunny_Afternoon_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunny Afternoon (With Tom Jones)",
+      "artist": "Space",
+      "has_synced": true,
+      "path": "select/12_Sunny_Afternoon_(With_Tom_Jones)_Space.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sunny Afternoon - with Space",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/13_Sunny_Afternoon_-_with_Space_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sunny Afternoon",
+      "artist": "Jimmy Buffett",
+      "has_synced": false,
+      "path": "select/14_Sunny_Afternoon_Jimmy_Buffett.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sunny afternoon",
+      "artist": "Kinks",
+      "has_synced": true,
+      "path": "select/15_Sunny_afternoon_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sunny Afternoon",
+      "artist": "Kinks",
+      "has_synced": true,
+      "path": "select/16_Sunny_Afternoon_Kinks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunny Afternoon",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_Sunny_Afternoon_Red_Velvet.txt"
+    }
+  ]
+}
